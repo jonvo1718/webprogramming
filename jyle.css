@@ -1,0 +1,105 @@
+body{
+	background:mistyrose url('ffcomet.png') no-repeat top;
+	background-size:933px 600px;
+    font-family:"Courier New" sans-serif;
+    text-align:center;
+}
+span{
+	color:red;
+    font-weight:bold;
+}
+a:link {
+  color: cornflowerblue;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: darkorange;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: hotpink;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: magenta;
+  background-color: transparent;
+  text-decoration: underline;
+}
+#title{
+	background:moccasin;
+	margin:auto;
+	width:300px;
+}
+#cookie{
+	float:left;
+    height:200px;
+    width:200px;
+    }
+#worktable{
+	float:right;
+    border:0px;
+    border-collapse:collapse;
+    text-align:center;
+}
+#tableodd{
+	height:30px;
+	background:MediumTurquoise;
+}
+#tableeven{
+	height:30px;
+	background:DarkSeaGreen;
+}
+#tablehead{
+    width:120px;
+}
+#space{
+	clear:left;
+    height:100px;
+}
+#hobbies{
+	float:right;
+    text-align:right;
+    margin: 10px 20px 10px 10px;
+	font-size:25px;
+}
+#favnum{
+	float:left;
+    text-align:left;
+    margin: 10px;
+	font-size:25px;
+}
+#headshot{
+	background:moccasin;
+	margin:auto;
+    clear:left;
+    text-align:center;
+    height:600px;
+    width:400px;
+}
+#head{
+	margin:20px;
+	height:450px;
+	width:360px;
+}
+#quote{
+	font-family:"Comic Sans MS";
+    color:indianred;
+}
+#experience{
+	width:300px;
+	text-align:left;
+	margin:auto;
+}
+#education{
+    margin:auto;
+}
+#jobs{
+    margin:auto;
+}
+#otherlinks{
+	text-align:right;
+    font-size:18px;
+}
